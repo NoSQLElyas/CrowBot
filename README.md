@@ -76,7 +76,7 @@ Si vous voulez changez le fichier [config.json](https://github.com/NoSQLElyas/Cr
 module.exports = {
   token: "", //Le token de votre bot
   "buyers": [
-    "876126492604641370" //Votre id
+    "" //Votre id
   ],
   "prefix": "+", //Laisser ce prefix tel quel si vous voulez que le système de modmail (ticket) marchent !!
 
