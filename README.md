@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/NoSQLElyas/CrowBot">
-    <img src="https://cdn.discordapp.com/attachments/1186369670857633873/1205555252426833920/image.png?ex=65d8cbd2&is=65c656d2&hm=0740e77d0f9cc8b8ac274eb1c4d06c287d6ec0542f19359e9f29f5cac7119e70&" alt="Logo de GraphicShop" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/1175393525479788646/1175403947079516221/BotifyHost_PP_Feuille_Normal.png?ex=656b1b3a&is=6558a63a&hm=735a5a6c2bd9ce3b7d832c3252eecd50a160819a2f6db40430b0136543501c7a&" alt="Logo de BotifyHost" width="80" height="80">
   </a>
 
   <h3 align="center">CrowBot + | Made by _nosql </h3>
@@ -21,7 +21,7 @@
 
 - [☄・Deploys](#deploys)
 - [🔰・Description](#description)
-- [🌌・Discord](https://discord.gg/UFh7Jp9ZHA)
+- [🌌・Discord](https://discord.gg/Rq6mnAtuMc)
 - [🎉・Setting up](#setup)
 - [⚙・Config](#config)
 ## <a id="deploys"></a>☄ » Deploys
@@ -62,11 +62,11 @@
 5. Supprimer le dossier "source" en zip et garder le nouveau (celui que vous venez d'extraire)
 6. Ouvrir le fichier [config.json](https://github.com/NoSQLElyas/CrowBot/blob/main/config/config.js) avec Visual Studio Code ou un autre éditeur de texte.
 7. Complèter le fichier [config.json](https://github.com/NoSQLElyas/CrowBot/blob/main/config/config.js)
-8. Mettez vos dossiers et fichiers sur [notre hébergeur de bot discord gratuit](https://discord.gg/UFh7Jp9ZHA) ou alors lancer le bot depuis Visual Studio Code.
+8. Mettez vos dossiers et fichiers sur [notre hébergeur de bot discord gratuit](https://discord.gg/Rq6mnAtuMc) ou alors lancer le bot depuis Visual Studio Code.
 9. SI vous choisissez d'héberger votre bot chez nous, vous n'avez qu'a [installez win scp sur votre pc](https://winscp.net/eng/download.php) > allez dans votre serveur > settings > launch sftp > le mot de passe de votre compte sur notre hébergeur > aller en haut à gauche dans le répertoire ou se trouve tout les dossier ET fichiers > séléctionnez tout > glisser en tenant appuyer sur clique gauche tout vers la droite > relachez > attendez > fermer la session > lancer votre serveur.
 
 
-Pour toute aide ou demande de le faire faire par un modérateur direction [🌌・Discord](https://discord.gg/UFh7Jp9ZHA) !
+Pour toute aide ou demande de le faire faire par un modérateur direction [🌌・Discord](https://discord.gg/Rq6mnAtuMc) !
 
 # <a id="config"></a>⚙ » Config
 
