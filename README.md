@@ -62,11 +62,11 @@
 5. Supprimer le dossier "source" en zip et garder le nouveau (celui que vous venez d'extraire)
 6. Ouvrir le fichier [config.json](https://github.com/NoSQLElyas/CrowBot) avec Visual Studio Code ou un autre éditeur de texte.
 7. Complèter le fichier [config.json](https://github.com/NoSQLElyas/CrowBot)
-8. Mettez vos dossiers et fichiers sur [notre hébergeur de bot discord gratuit](https://discord.gg/Rq6mnAtuMc) ou alors lancer le bot depuis Visual Studio Code.
+8. Mettez vos dossiers et fichiers sur [notre hébergeur de bot discord gratuit](https://discord.com/invite/UFh7Jp9ZHA) ou alors lancer le bot depuis Visual Studio Code.
 9. SI vous choisissez d'héberger votre bot chez nous, vous n'avez qu'a [installez win scp sur votre pc](https://winscp.net/eng/download.php) > allez dans votre serveur > settings > launch sftp > le mot de passe de votre compte sur notre hébergeur > aller en haut à gauche dans le répertoire ou se trouve tout les dossier ET fichiers > séléctionnez tout > glisser en tenant appuyer sur clique gauche tout vers la droite > relachez > attendez > fermer la session > lancer votre serveur.
 
 
-Pour toute aide ou demande de le faire faire par un modérateur direction [🌌・Discord](https://discord.gg/Rq6mnAtuMc) !
+Pour toute aide ou demande de le faire faire par un modérateur direction [🌌・Discord](https://discord.com/invite/UFh7Jp9ZHA) !
 
 # <a id="config"></a>⚙ » Config
 
