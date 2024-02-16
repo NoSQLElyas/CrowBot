@@ -21,7 +21,7 @@
 
 - [☄・Deploys](#deploys)
 - [🔰・Description](#description)
-- [🌌・Discord](https://discord.gg/Rq6mnAtuMc)
+- [🌌・Discord](https://discord.gg/UFh7Jp9ZHA)
 - [🎉・Setting up](#setup)
 - [⚙・Config](#config)
 ## <a id="deploys"></a>☄ » Deploys
