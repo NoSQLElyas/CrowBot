@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/NoSQLElyas/CrowBot">
-    <img src="(https://cdn.discordapp.com/attachments/1185896439822438433/1208084051966304296/Capture_decran_2024-02-09_174549.png?ex=65e1fef3&is=65cf89f3&hm=02e61a14050afb40305e5557f0c3c1926bb5b86207b94930760722b61eecd168&)" alt="Logo de Graphic Shop" width="80" height="80">
+    <img src="(https://cdn.discordapp.com/attachments/1185896439822438433/1208084051966304296/Capture_decran_2024-02-09_174549.png?ex=65e1fef3&is=65cf89f3&hm=02e61a14050afb40305e5557f0c3c1926bb5b86207b94930760722b61eecd168&)" alt="Logo de Graphic Shop" width="100" height="100">
   </a>
 
   <h3 align="center">CrowBot + | Made by _nosql </h3>
