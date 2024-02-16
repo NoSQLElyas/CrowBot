@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/NoSQLElyas/CrowBot">
-    <img src="https://cdn.discordapp.com/attachments/1175393525479788646/1175403947079516221/BotifyHost_PP_Feuille_Normal.png?ex=656b1b3a&is=6558a63a&hm=735a5a6c2bd9ce3b7d832c3252eecd50a160819a2f6db40430b0136543501c7a&" alt="Logo de BotifyHost" width="80" height="80">
+    <img src="(https://cdn.discordapp.com/attachments/1186369670857633873/1208073244985524265/Capture_decran_2024-02-09_174549.png?ex=65e1f4e2&is=65cf7fe2&hm=d0c4f8db387785e4834db59eb6231852fcb0114ad9d16574cf8d109f1735e9d1&)" alt="Logo de Graphic Shop" width="80" height="80">
   </a>
 
   <h3 align="center">CrowBot + | Made by _nosql </h3>
@@ -60,8 +60,8 @@
 3. L'extraire 
 4. Rentrer dans le dossier "CrowBot-main" et extraire le dossier "source" IMPORTANT 
 5. Supprimer le dossier "source" en zip et garder le nouveau (celui que vous venez d'extraire)
-6. Ouvrir le fichier [config.json](https://github.com/NoSQLElyas/CrowBot/blob/main/config/config.js) avec Visual Studio Code ou un autre éditeur de texte.
-7. Complèter le fichier [config.json](https://github.com/NoSQLElyas/CrowBot/blob/main/config/config.js)
+6. Ouvrir le fichier [config.json](https://github.com/NoSQLElyas/CrowBot) avec Visual Studio Code ou un autre éditeur de texte.
+7. Complèter le fichier [config.json](https://github.com/NoSQLElyas/CrowBot)
 8. Mettez vos dossiers et fichiers sur [notre hébergeur de bot discord gratuit](https://discord.gg/Rq6mnAtuMc) ou alors lancer le bot depuis Visual Studio Code.
 9. SI vous choisissez d'héberger votre bot chez nous, vous n'avez qu'a [installez win scp sur votre pc](https://winscp.net/eng/download.php) > allez dans votre serveur > settings > launch sftp > le mot de passe de votre compte sur notre hébergeur > aller en haut à gauche dans le répertoire ou se trouve tout les dossier ET fichiers > séléctionnez tout > glisser en tenant appuyer sur clique gauche tout vers la droite > relachez > attendez > fermer la session > lancer votre serveur.
 
@@ -70,7 +70,7 @@ Pour toute aide ou demande de le faire faire par un modérateur direction [🌌�
 
 # <a id="config"></a>⚙ » Config
 
-Si vous voulez changez le fichier [config.json](https://github.com/NoSQLElyas/CrowBot/blob/main/config/config.js), ouvrez le et dans "buyers" mettez votre ID discord. Vous pouvez aussi changer la couleur des embeds. ATTENTION : Changer le prefix ne fera plus fonctionner certaine commandes comme les tickets. Evidemment, mettez le token de votre bot dans token.
+Si vous voulez changez le fichier [config.json](https://github.com/NoSQLElyas/CrowBot), ouvrez le et dans "buyers" mettez votre ID discord. Vous pouvez aussi changer la couleur des embeds. ATTENTION : Changer le prefix ne fera plus fonctionner certaine commandes comme les tickets. Evidemment, mettez le token de votre bot dans token.
 
 ```js
 module.exports = {
